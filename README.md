@@ -12,6 +12,6 @@ Welcome to my GitHub! I'm a data analyst dedicated to turning raw data into mean
 - Analyzing marketing campaign performance and customer segmentation to enhance targeting strategies.
 - Leveraging Azure cloud technologies for scalable data solutions.
 
-📊 Skills: SQL | Python | R | Power BI | Azure | Data Visualization
-📈 Interests: Data Analyst | Marketing Analytics | Customer Analytics | Financial Analytics
+📊 Skills: SQL | Python | R | Power BI | Azure | Data Visualization \
+📈 Interests: Data Analyst | Marketing Analytics | Customer Analytics | Financial Analytics \
 Feel free to explore my repositories, and let’s connect if you’re interested in collaboration or sharing insights!
