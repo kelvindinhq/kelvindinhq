@@ -34,11 +34,9 @@ A global chain of coffeehouses and roastery has run a marketing promotion for on
 
 The analysis helps to make informed decisions, optimize the reward program, and maximize its benefits for both customers and the business.
 
-![Marketing Reward Program GIF](https://raw.githubusercontent.com/kelvindinhq/reward_program_marketing_analytic/refs/heads/main/img/rewardprogram-git.gif)
-
-## Project Link
-
 For detailed analysis and further documentation, visit the [project repository](https://github.com/kelvindinhq/reward_program_marketing_analytic/tree/main).
+
+![Marketing Reward Program GIF](https://raw.githubusercontent.com/kelvindinhq/reward_program_marketing_analytic/refs/heads/main/img/rewardprogram-git.gif)
 
 📊 Skills: SQL | Python | R | Power BI | Azure | Data Visualization \
 📈 Interests: Data Analyst | Marketing Analytics | Customer Analytics | Financial Analytics \
