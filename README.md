@@ -18,7 +18,27 @@ For more information, visit the [project repository](https://github.com/kelvindi
 
 ![Finance Dashboard GIF](https://github.com/kelvindinhq/financial_reporting/blob/main/img/git_fin_1.gif)
 
-- Leveraging Azure cloud technologies for scalable data solutions.
+
+
+### Marketing Reward Program Analysis
+
+#### Project Overview:
+
+A global chain of coffeehouses and roastery has run a marketing promotion for one month, which has significant amounts of data on its sales, marketing efforts, and loyalty program that has been previously underutilized. This project thoroughly analyzes and synthesizes this data to uncover critical insights that will improve the company reward program effectiveness.
+
+### Key Components:
+- **Customer Engagement**: Analyze user activity and participation rates.
+- **Sales Impact**: Determine how the reward program affects monthly and seasonal sales trends.
+- **Segmentation**: Identify the most valuable customer groups and create targeted campaigns.
+- **Performance KPIs**: Metrics like average order value (AOV), revenue per conversion, and retention rates.
+
+The analysis helps to make informed decisions, optimize the reward program, and maximize its benefits for both customers and the business.
+
+![Marketing Reward Program GIF](https://raw.githubusercontent.com/kelvindinhq/reward_program_marketing_analytic/refs/heads/main/img/rewardprogram-git.gif)
+
+## Project Link
+
+For detailed analysis and further documentation, visit the [project repository](https://github.com/kelvindinhq/reward_program_marketing_analytic/tree/main).
 
 📊 Skills: SQL | Python | R | Power BI | Azure | Data Visualization \
 📈 Interests: Data Analyst | Marketing Analytics | Customer Analytics | Financial Analytics \
