@@ -9,7 +9,13 @@ Welcome to my GitHub! I'm a data analyst dedicated to turning raw data into mean
 - **Cloud Implementation:** Create Azure Synapse Pipelines and Spark pool for data ingestion and processing.
 
 ## 🌱 Current Projects
-- Analyzing marketing campaign performance and customer segmentation to enhance targeting strategies.
+### Finance Dashboard Project - Velocron
+
+#### Project Overview:
+This project involves analyzing the financial performance of **Velocron**, a global manufacturer of bicycles, for the fiscal year ending December 2011. The analysis focuses on key financial statements, including the Profit and Loss (P&L), Balance Sheet, and Cash Flow statements. The goal is to assess financial health, identify areas of strength and concern, and provide recommendations for optimizing resource allocation and business growth.
+
+![Finance Dashboard GIF](https://github.com/kelvindinhq/financial_reporting/blob/main/img/git_fin_1.gif)
+
 - Leveraging Azure cloud technologies for scalable data solutions.
 
 📊 Skills: SQL | Python | R | Power BI | Azure | Data Visualization \
