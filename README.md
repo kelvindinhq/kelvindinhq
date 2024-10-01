@@ -16,8 +16,7 @@ This project involves analyzing the financial performance of **Velocron**, a glo
 
 For more information, visit the [project repository](https://github.com/kelvindinhq/financial_reporting/tree/main).
 
-![Finance Dashboard GIF](https://github.com/kelvindinhq/financial_reporting/blob/main/img/git_fin_1.gif)
-
+<img src="[drawing.jpg](https://github.com/kelvindinhq/financial_reporting/blob/main/img/git_fin_1.gif)" alt="Finance Dashboard GIF" width="720"/>
 - Leveraging Azure cloud technologies for scalable data solutions.
 
 📊 Skills: SQL | Python | R | Power BI | Azure | Data Visualization \
